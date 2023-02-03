@@ -1,8 +1,8 @@
 {
-  "name": "boonsuen",
+  "name": "pearlsea",
   "version": "0.1.0",
   "private": true,
-  "repository": "github:boonsuen/boonsuen",
+  "repository": "github:pearlsea020/pearlsea020",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
