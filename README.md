@@ -1,4 +1,4 @@
 ### Hey there, you found me. 👋
 
-## Find me on my personal site
-- Personal site:
+### Connect with me through my personal site at [Pearlsea Jain](https://pearlseajain.netlify.app/)
+
