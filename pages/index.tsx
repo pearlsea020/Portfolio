@@ -35,8 +35,8 @@ const Hero = () => (
       <Title>Hello there</Title>
       <p role="doc-subtitle">
         Hello! I'm Pearlsea, a senior majoring in Computer Science at the Ohio State University, Columbus, OH. I'm a web developer with a budding interest in Cybersecurity and Software Architecture.
-        I've worked several semesters as a teaching assistant since my very first year of university!
-        
+        I've worked several semesters as a teaching assistant since my very first year of university!<br>
+        <br>
         To me, CS is a never-ending journey of learning and growth with its unique ability to create tangible impact on tremendous scales across various sectors and realms of our daily existence. 
         The versatility and problem-solving aspect of CS never fail to amaze me. I'm a curious learner. I'm continuously learning, falling, learning. 
         I believe there's something I learn from each person, every day of my life which helps me build a growth mindset.
