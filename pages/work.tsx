@@ -81,6 +81,16 @@ const WorkPage = () => (
     <ProjectSection className="container">
       <h2>Personal Projects</h2>
       <Projects>
+         <Project>
+          <h3>Travelocracy</h3>
+          <p>A landing page for a mock travel agency allowing users to submit quote requests which are then available to view on the admin side. </p>
+          <a href="https://momo-travel.vercel.app/" target="_blank" rel="noreferrer">Open</a>
+        </Project>
+         <Project>
+          <h3>Enigma</h3>
+          <p>Java Implementation of the WWII German encryption machine that parses and tokenizes input with various permutations to encode and decode messages. </p>
+          <a target="_blank" rel="noreferrer">Open</a>
+        </Project>
         <Project>
           <h3>Beach Resort Application</h3>
           <p>Interactive website that lets user browse and book luxury hotel rooms. </p>
